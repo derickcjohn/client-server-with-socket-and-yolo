@@ -1,0 +1,1 @@
+This program the server communicates with the client, where the server takes in the camera input from a webcam and runs an object detection using the YOLOv5 model and displays the resultant video on the client side. 
